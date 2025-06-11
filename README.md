@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nathan Lee
 
-<!--
-**nathanzhanglee/nathanzhanglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 I'm currently pursuing a BSE in CS with a concentration in AI and minors in Mathematics and Data Science at the University of Pennsylvania
+- 📧 You can reach me at nzlee@seas.upenn.edu or connect with me on [LinkedIn](www.linkedin.com/in/nathanzhanglee)
 
-Here are some ideas to get you started:
+## Technical Skills
+- **Languages & Frameworks:** Java, Python, JavaScript, OCaml, C/C++, SQL, HTML, CSS, Swift, Assembly, SQL, R, React.js, Node.js, Express.js, FastAPI
+- **Tools & Technologies:** Git, VMWare, Docker, VS Code, IntelliJ, REST APIs, AWS EC2, AWS S3, AWS RDS, Java Spark, Apache Kafka, DynamoDB, ChromaDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Apart from coding, I enjoy:
+- 🏃‍♂️ Running Around Philly
+- 🍽️ Exporing New Restaurants
+- 🏂 Snowboarding and Skiing
