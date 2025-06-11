@@ -1,7 +1,7 @@
 # Nathan Lee
 
 ## About Me
-- 🎓 I'm currently pursuing a BSE in CS with an AI concentration and minors in Math and Data Science @ the University of Pennsylvania
+- 🎓 I'm currently pursuing a BSE in CS with an AI concentration and minors in Math + Data Science @ the University of Pennsylvania
 - 📧 You can reach me via email at [nzlee@seas.upenn.edu](mailto:nzlee@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/nathanzhanglee)
 
 ## Technical Skills
